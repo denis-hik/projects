@@ -1,4 +1,4 @@
-import bg from '../media/bg.jpg';
+import bg from '../media/0001-0250.gif';
 
 const ImagesConfig = {
     background: bg,

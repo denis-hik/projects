@@ -3,7 +3,7 @@
     width: 90%;
     position: relative;
     height: 10%;
-    background: #d0d0d0;
+    background: rgba(255, 255, 255, 0.4);
     border-radius: 20px;
     margin: 10px auto;
     /*display: grid;*/

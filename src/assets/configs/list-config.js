@@ -85,10 +85,16 @@ const ListConfig = [
         stack: ["Java", "Material UI", "Yandex MapKit"],
         buttons: [{
             name: 'Google play',
-            url: 'https://play.google.com/store/apps/details?id=com.denishik.vrchat',
+            url: 'https://play.google.com/store/apps/details?id=sc.denishik.ru',
         },{
             name: 'Apk',
             url: apk,
+        },{
+            name: 'Ardruino',
+            url: "https://github.com/denis-hik/SC-Led-Ardruino",
+        },{
+            name: 'Git',
+            url: "https://github.com/denis-hik/SC-Android",
         }]
     },
 ]
